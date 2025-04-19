@@ -1,4 +1,11 @@
-# internal network
+# 常用域名前置
+.cn
+.qq.com
+.tencent.com
+.baidu.com
+.bilibili.com
+.douyin.com
+# 内网域名
 10.*.*.*
 172.16.*.*
 172.17.*.*
@@ -18,6 +25,7 @@
 172.31.*.*
 169.254.*.*
 192.168.*.*
+# end
 # -------autogen------
 .0.zone
 .00.net
@@ -14294,7 +14302,6 @@
 .baidu-wenxue.com
 .baidu.cc
 .baidu.cm
-.baidu.com
 .baidu.hk
 .baidu.jp
 .baidu.mobi
@@ -16374,7 +16381,6 @@
 .bilibil.com
 .bilibili.cc
 .bilibili.co
-.bilibili.com
 .bilibili.li
 .bilibili.net
 .bilibili996.com
@@ -24552,7 +24558,6 @@
 .cn.razerzone.com
 .cn.vc
 .cn.windowssearch.com
-.cn
 .cn0-6.com
 .cn006.com
 .cn010w.com
@@ -31491,7 +31496,6 @@
 .douyapu.com
 .douyar.com
 .douyi.com
-.douyin.com
 .douyin766.com
 .douyinact.com
 .douyinact.net
@@ -80421,7 +80425,6 @@
 .qpzq.net
 .qq-xmail.com
 .qq.cc
-.qq.com
 .qq.do
 .qq.md
 .qq.net
@@ -93467,7 +93470,6 @@
 .tencent-gf.com
 .tencent-stock.com
 .tencent.com.hk
-.tencent.com
 .tencent.design
 .tencent.net
 .tencentads.com
